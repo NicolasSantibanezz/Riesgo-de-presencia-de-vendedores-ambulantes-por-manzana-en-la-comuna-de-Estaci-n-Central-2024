@@ -1,0 +1,2 @@
+# Riesgo-de-presencia-de-vendedores-ambulantes-por-manzana-en-la-comuna-de-Estaci-n-Central-2024
+En este proyecto, se realizaron diferentes geoprocesos para la realización de una cartografía que refleje el nivel de riesgo por manzana que presenta la comuna de Estación Central ante la presencia de los vendedores ambulantes, temática bastante repetitiva y relevante en esta zona dada las características de su población.
